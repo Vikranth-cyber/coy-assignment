@@ -1,0 +1,446 @@
+{
+  "profiles": [
+    {
+      "id": "p_1",
+      "name": "Ananya Sharma",
+      "age": 21,
+      "photo": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?w=500&auto=format&fit=crop&q=60",
+      "bio": "Hey there! Exploring new places and building cool tech in Hyderabad.",
+      "city": "Hyderabad",
+      "interests": [
+        "Reading",
+        "Coding",
+        "Coffee"
+      ],
+      "hasLikedUser": false
+    },
+    {
+      "id": "p_2",
+      "name": "Rahul Verma",
+      "age": 22,
+      "photo": "https://images.unsplash.com/photo-1517841905240-472988babdf9?w=500&auto=format&fit=crop&q=60",
+      "bio": "Hey there! Exploring new places and building cool tech in Bengaluru.",
+      "city": "Bengaluru",
+      "interests": [
+        "Travel",
+        "Photography",
+        "Hiking"
+      ],
+      "hasLikedUser": false
+    },
+    {
+      "id": "p_3",
+      "name": "Sneha Reddy",
+      "age": 23,
+      "photo": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=500&auto=format&fit=crop&q=60",
+      "bio": "Hey there! Exploring new places and building cool tech in Mumbai.",
+      "city": "Mumbai",
+      "interests": [
+        "Fitness",
+        "Cooking",
+        "Music"
+      ],
+      "hasLikedUser": false
+    },
+    {
+      "id": "p_4",
+      "name": "Arjun Nair",
+      "age": 24,
+      "photo": "https://images.unsplash.com/photo-1494790108377-be9c29b29330?w=500&auto=format&fit=crop&q=60",
+      "bio": "Hey there! Exploring new places and building cool tech in Delhi.",
+      "city": "Delhi",
+      "interests": [
+        "Art",
+        "Movies",
+        "Gaming"
+      ],
+      "hasLikedUser": false
+    },
+    {
+      "id": "p_5",
+      "name": "Priya Iyer",
+      "age": 25,
+      "photo": "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?w=500&auto=format&fit=crop&q=60",
+      "bio": "Hey there! Exploring new places and building cool tech in Pune.",
+      "city": "Pune",
+      "interests": [
+        "Badminton",
+        "Startups",
+        "Design"
+      ],
+      "hasLikedUser": true
+    },
+    {
+      "id": "p_6",
+      "name": "Karan Malhotra",
+      "age": 26,
+      "photo": "https://images.unsplash.com/photo-1438761681033-6461ffad8d80?w=500&auto=format&fit=crop&q=60",
+      "bio": "Hey there! Exploring new places and building cool tech in Chennai.",
+      "city": "Chennai",
+      "interests": [
+        "Yoga",
+        "Running",
+        "Podcasts"
+      ],
+      "hasLikedUser": false
+    },
+    {
+      "id": "p_7",
+      "name": "Meera Menon",
+      "age": 27,
+      "photo": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=500&auto=format&fit=crop&q=60",
+      "bio": "Hey there! Exploring new places and building cool tech in Hyderabad.",
+      "city": "Hyderabad",
+      "interests": [
+        "Reading",
+        "Coding",
+        "Coffee"
+      ],
+      "hasLikedUser": false
+    },
+    {
+      "id": "p_8",
+      "name": "Rohan Gupta",
+      "age": 21,
+      "photo": "https://images.unsplash.com/photo-1524504388940-b1c1722653e1?w=500&auto=format&fit=crop&q=60",
+      "bio": "Hey there! Exploring new places and building cool tech in Bengaluru.",
+      "city": "Bengaluru",
+      "interests": [
+        "Travel",
+        "Photography",
+        "Hiking"
+      ],
+      "hasLikedUser": false
+    },
+    {
+      "id": "p_9",
+      "name": "Divya Patel",
+      "age": 22,
+      "photo": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?w=500&auto=format&fit=crop&q=60",
+      "bio": "Hey there! Exploring new places and building cool tech in Mumbai.",
+      "city": "Mumbai",
+      "interests": [
+        "Fitness",
+        "Cooking",
+        "Music"
+      ],
+      "hasLikedUser": false
+    },
+    {
+      "id": "p_10",
+      "name": "Vikram Singh",
+      "age": 23,
+      "photo": "https://images.unsplash.com/photo-1517841905240-472988babdf9?w=500&auto=format&fit=crop&q=60",
+      "bio": "Hey there! Exploring new places and building cool tech in Delhi.",
+      "city": "Delhi",
+      "interests": [
+        "Art",
+        "Movies",
+        "Gaming"
+      ],
+      "hasLikedUser": false
+    },
+    {
+      "id": "p_11",
+      "name": "Pooja Deshmukh",
+      "age": 24,
+      "photo": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=500&auto=format&fit=crop&q=60",
+      "bio": "Hey there! Exploring new places and building cool tech in Pune.",
+      "city": "Pune",
+      "interests": [
+        "Badminton",
+        "Startups",
+        "Design"
+      ],
+      "hasLikedUser": false
+    },
+    {
+      "id": "p_12",
+      "name": "Aditya Rao",
+      "age": 25,
+      "photo": "https://images.unsplash.com/photo-1494790108377-be9c29b29330?w=500&auto=format&fit=crop&q=60",
+      "bio": "Hey there! Exploring new places and building cool tech in Chennai.",
+      "city": "Chennai",
+      "interests": [
+        "Yoga",
+        "Running",
+        "Podcasts"
+      ],
+      "hasLikedUser": false
+    },
+    {
+      "id": "p_13",
+      "name": "Neha Joshi",
+      "age": 26,
+      "photo": "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?w=500&auto=format&fit=crop&q=60",
+      "bio": "Hey there! Exploring new places and building cool tech in Hyderabad.",
+      "city": "Hyderabad",
+      "interests": [
+        "Reading",
+        "Coding",
+        "Coffee"
+      ],
+      "hasLikedUser": true
+    },
+    {
+      "id": "p_14",
+      "name": "Kabir Khan",
+      "age": 27,
+      "photo": "https://images.unsplash.com/photo-1438761681033-6461ffad8d80?w=500&auto=format&fit=crop&q=60",
+      "bio": "Hey there! Exploring new places and building cool tech in Bengaluru.",
+      "city": "Bengaluru",
+      "interests": [
+        "Travel",
+        "Photography",
+        "Hiking"
+      ],
+      "hasLikedUser": false
+    },
+    {
+      "id": "p_15",
+      "name": "Ankita Roy",
+      "age": 21,
+      "photo": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=500&auto=format&fit=crop&q=60",
+      "bio": "Hey there! Exploring new places and building cool tech in Mumbai.",
+      "city": "Mumbai",
+      "interests": [
+        "Fitness",
+        "Cooking",
+        "Music"
+      ],
+      "hasLikedUser": false
+    },
+    {
+      "id": "p_16",
+      "name": "Siddharth Verma",
+      "age": 22,
+      "photo": "https://images.unsplash.com/photo-1524504388940-b1c1722653e1?w=500&auto=format&fit=crop&q=60",
+      "bio": "Hey there! Exploring new places and building cool tech in Delhi.",
+      "city": "Delhi",
+      "interests": [
+        "Art",
+        "Movies",
+        "Gaming"
+      ],
+      "hasLikedUser": false
+    },
+    {
+      "id": "p_17",
+      "name": "Tanvi Kulkarni",
+      "age": 23,
+      "photo": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?w=500&auto=format&fit=crop&q=60",
+      "bio": "Hey there! Exploring new places and building cool tech in Pune.",
+      "city": "Pune",
+      "interests": [
+        "Badminton",
+        "Startups",
+        "Design"
+      ],
+      "hasLikedUser": false
+    },
+    {
+      "id": "p_18",
+      "name": "Varun Kapoor",
+      "age": 24,
+      "photo": "https://images.unsplash.com/photo-1517841905240-472988babdf9?w=500&auto=format&fit=crop&q=60",
+      "bio": "Hey there! Exploring new places and building cool tech in Chennai.",
+      "city": "Chennai",
+      "interests": [
+        "Yoga",
+        "Running",
+        "Podcasts"
+      ],
+      "hasLikedUser": false
+    },
+    {
+      "id": "p_19",
+      "name": "Shreya Sen",
+      "age": 25,
+      "photo": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=500&auto=format&fit=crop&q=60",
+      "bio": "Hey there! Exploring new places and building cool tech in Hyderabad.",
+      "city": "Hyderabad",
+      "interests": [
+        "Reading",
+        "Coding",
+        "Coffee"
+      ],
+      "hasLikedUser": false
+    },
+    {
+      "id": "p_20",
+      "name": "Aakash Mehta",
+      "age": 26,
+      "photo": "https://images.unsplash.com/photo-1494790108377-be9c29b29330?w=500&auto=format&fit=crop&q=60",
+      "bio": "Hey there! Exploring new places and building cool tech in Bengaluru.",
+      "city": "Bengaluru",
+      "interests": [
+        "Travel",
+        "Photography",
+        "Hiking"
+      ],
+      "hasLikedUser": false
+    },
+    {
+      "id": "p_21",
+      "name": "Nisha Pillai",
+      "age": 27,
+      "photo": "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?w=500&auto=format&fit=crop&q=60",
+      "bio": "Hey there! Exploring new places and building cool tech in Mumbai.",
+      "city": "Mumbai",
+      "interests": [
+        "Fitness",
+        "Cooking",
+        "Music"
+      ],
+      "hasLikedUser": false
+    },
+    {
+      "id": "p_22",
+      "name": "Manish Tiwari",
+      "age": 21,
+      "photo": "https://images.unsplash.com/photo-1438761681033-6461ffad8d80?w=500&auto=format&fit=crop&q=60",
+      "bio": "Hey there! Exploring new places and building cool tech in Delhi.",
+      "city": "Delhi",
+      "interests": [
+        "Art",
+        "Movies",
+        "Gaming"
+      ],
+      "hasLikedUser": true
+    },
+    {
+      "id": "p_23",
+      "name": "Ritu Nambiar",
+      "age": 22,
+      "photo": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=500&auto=format&fit=crop&q=60",
+      "bio": "Hey there! Exploring new places and building cool tech in Pune.",
+      "city": "Pune",
+      "interests": [
+        "Badminton",
+        "Startups",
+        "Design"
+      ],
+      "hasLikedUser": false
+    },
+    {
+      "id": "p_24",
+      "name": "Yashvardhan Das",
+      "age": 23,
+      "photo": "https://images.unsplash.com/photo-1524504388940-b1c1722653e1?w=500&auto=format&fit=crop&q=60",
+      "bio": "Hey there! Exploring new places and building cool tech in Chennai.",
+      "city": "Chennai",
+      "interests": [
+        "Yoga",
+        "Running",
+        "Podcasts"
+      ],
+      "hasLikedUser": false
+    },
+    {
+      "id": "p_25",
+      "name": "Swati Nandedkar",
+      "age": 24,
+      "photo": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?w=500&auto=format&fit=crop&q=60",
+      "bio": "Hey there! Exploring new places and building cool tech in Hyderabad.",
+      "city": "Hyderabad",
+      "interests": [
+        "Reading",
+        "Coding",
+        "Coffee"
+      ],
+      "hasLikedUser": false
+    },
+    {
+      "id": "p_26",
+      "name": "Tarun Bajaj",
+      "age": 25,
+      "photo": "https://images.unsplash.com/photo-1517841905240-472988babdf9?w=500&auto=format&fit=crop&q=60",
+      "bio": "Hey there! Exploring new places and building cool tech in Bengaluru.",
+      "city": "Bengaluru",
+      "interests": [
+        "Travel",
+        "Photography",
+        "Hiking"
+      ],
+      "hasLikedUser": false
+    },
+    {
+      "id": "p_27",
+      "name": "Kavya Sridhar",
+      "age": 26,
+      "photo": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=500&auto=format&fit=crop&q=60",
+      "bio": "Hey there! Exploring new places and building cool tech in Mumbai.",
+      "city": "Mumbai",
+      "interests": [
+        "Fitness",
+        "Cooking",
+        "Music"
+      ],
+      "hasLikedUser": false
+    },
+    {
+      "id": "p_28",
+      "name": "Nikhil Agarwal",
+      "age": 27,
+      "photo": "https://images.unsplash.com/photo-1494790108377-be9c29b29330?w=500&auto=format&fit=crop&q=60",
+      "bio": "Hey there! Exploring new places and building cool tech in Delhi.",
+      "city": "Delhi",
+      "interests": [
+        "Art",
+        "Movies",
+        "Gaming"
+      ],
+      "hasLikedUser": false
+    },
+    {
+      "id": "p_29",
+      "name": "Simran Chawla",
+      "age": 21,
+      "photo": "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?w=500&auto=format&fit=crop&q=60",
+      "bio": "Hey there! Exploring new places and building cool tech in Pune.",
+      "city": "Pune",
+      "interests": [
+        "Badminton",
+        "Startups",
+        "Design"
+      ],
+      "hasLikedUser": false
+    },
+    {
+      "id": "p_30",
+      "name": "Harsh Vardhan",
+      "age": 22,
+      "photo": "https://images.unsplash.com/photo-1438761681033-6461ffad8d80?w=500&auto=format&fit=crop&q=60",
+      "bio": "Hey there! Exploring new places and building cool tech in Chennai.",
+      "city": "Chennai",
+      "interests": [
+        "Yoga",
+        "Running",
+        "Podcasts"
+      ],
+      "hasLikedUser": false
+    }
+  ],
+  "state": {
+    "swipedIds": [
+      "p_1",
+      "p_2",
+      "p_3",
+      "p_4",
+      "p_5",
+      "p_6",
+      "p_7",
+      "p_8",
+      "p_9"
+    ],
+    "likes": [
+      "p_2",
+      "p_4",
+      "p_5",
+      "p_7"
+    ],
+    "matches": [
+      "p_5"
+    ]
+  }
+}
